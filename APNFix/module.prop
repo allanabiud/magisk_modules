@@ -1,0 +1,6 @@
+id=apnfx
+name=APN Config Fix
+version=1.0
+versionCode=1
+author=allanabiud
+description=Replaces the APN config file in /system/etc/apns-conf.xml and /system/product/etc/apns-conf.xml with one from a Samsung Device
